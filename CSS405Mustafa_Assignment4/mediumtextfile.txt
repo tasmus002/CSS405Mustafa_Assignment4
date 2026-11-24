@@ -1,0 +1,80 @@
+Java is a popular programming language used by many student programmers.
+A student learning Java often studies data structures and algorithms.
+An AVL tree is a self balancing binary search tree.
+A tree stores data efficiently and allows fast search operations.
+The student used an AVL tree to count word frequency in a text file.
+
+Java Java Java tree tree tree data data data algorithm algorithm algorithm.
+Computer computer computer student student student frequency frequency frequency.
+Word word word search search search insert insert insert delete delete delete.
+
+The computer science student wrote a Java program that reads a file.
+The file contains words and the program counts every word.
+When a word appears again the count increases.
+When a new word appears the tree inserts a new node.
+The AVL tree maintains balance after each insert operation.
+Balance is important because search efficiency depends on tree height.
+
+Every student in the class learned about recursion.
+Recursion can be used to traverse a tree.
+A preorder traversal visits the root before its children.
+An inorder traversal prints data in sorted order.
+A postorder traversal visits children before the root.
+
+The algorithm for balancing an AVL tree uses rotations.
+A left rotation changes the structure of the tree.
+A right rotation changes the structure of the tree.
+A double rotation may be required when imbalance occurs.
+The algorithm ensures the tree remains balanced.
+
+Data structures help organize information.
+Data structures make large collections of data easier to manage.
+A computer program benefits from efficient data structures.
+The student compared a linked list and a tree.
+The tree performed faster searches.
+
+Java supports object oriented programming.
+Java classes can represent nodes in a tree.
+A node contains a key and a count.
+A node may have a left child and a right child.
+Each node stores information about height.
+
+Frequency analysis is useful for text processing.
+The frequency of a word can reveal patterns.
+A word frequency program reads text and updates counts.
+The frequency count increases whenever the same word appears.
+
+Computer systems process vast amounts of data.
+A computer can analyze text quickly.
+A student can use Java to build useful applications.
+A tree can organize data alphabetically.
+An algorithm can improve performance.
+
+Tree tree tree tree tree.
+Java Java Java Java Java.
+Data data data data data.
+Algorithm algorithm algorithm algorithm algorithm.
+Computer computer computer computer computer.
+Student student student student student.
+Frequency frequency frequency frequency frequency.
+Word word word word word.
+
+The AVL tree project demonstrates knowledge of programming.
+The student implemented insert search and delete methods.
+The student tested the tree with random data.
+The student verified that the algorithm maintained balance.
+The computer produced sorted results.
+The frequency counts matched the expected values.
+
+Programming requires practice.
+Practice helps a student become a better programmer.
+A computer executes instructions exactly as written.
+A tree grows in complexity as more data is added.
+An algorithm provides a systematic solution to a problem.
+
+Java remains popular in education.
+Many student developers use Java in class projects.
+The AVL tree remains an important example of a balanced tree.
+Data analysis often begins with counting word frequency.
+The computer processed the data and generated output.
+The student reviewed the results and confirmed correctness.
